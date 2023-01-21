@@ -10,3 +10,4 @@
 - phosphor-react
 - dayjs
 - radix
+- axios
