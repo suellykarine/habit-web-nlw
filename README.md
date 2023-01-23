@@ -1,6 +1,6 @@
 <h1 align="center">habit web-NLW SETUP Rocketseat</h1>
 
-<p align='center'> <img src="./src/assets/logohabits.png"> </p>
+<p align='center'> <img src="./src/assets/logohabits.svg"> </p>
 
 Aplicação front-end desenvolvida para registro de hábitos pessoais. Projeto fullstack desenvolvido junto ao evento NLW da Rocketseat. Possui funcionalidades de criação, listagem e atualização de hábitos. Consome uma API REST que foi desenvolvida em nodejs para essa aplicação.
 
