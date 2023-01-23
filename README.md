@@ -20,3 +20,4 @@ Aplicação front-end desenvolvida para registro de hábitos pessoais. Projeto f
 
 <img src="./src/assets/front.png">
 <img src="./src/assets/modal.png">
+<img src="./src/assets/popup.png">
